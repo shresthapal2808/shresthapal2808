@@ -1,6 +1,6 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=shresthapal2808&label=Profile%20Views&color=0e75b6&style=flat)
 
-# Hi there, I'm Shrestha 👋
+# Hi there, I'm Shrestha Pal👋
 
 I am a Computer Science student passionate about building real-world applications and exploring AI-driven solutions.
 I enjoy working across the stack and turning ideas into practical, user-focused products.
